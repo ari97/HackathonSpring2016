@@ -1,0 +1,7 @@
+body{background-color:#8784db;}
+h1{color:blue;}
+#header{width:100%;border: 2px dashed aqua;background-color:#ccffff;}
+.description{width:100%;border: 2px dashed aqua;background-color:#ccffff;}
+.body{width:80%;border:2px dashed blue;background-color:#8784db;font-size:24px;color:blue;margin-left:10%;margin-bottom:3%;}
+footer{width:100%;border:2px dashed aqua;background-color:#ccffff;font-size:24px;color:blue;text-align:center;}
+#text{background-color:#8784db;width:80%;border:2px dashed blue;margin-left:10%;}

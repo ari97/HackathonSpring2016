@@ -1,0 +1,60 @@
+.container{
+  background-color: #d7d7f4;
+  padding-right: 30px;
+  border-radius: 5px;  
+  width: 30%;
+  height: 60%;
+  margin-top:2.5%;
+}
+
+.header{
+  text-align:center;
+  width:100%;
+  height:10%;
+  margin-top:5%;
+  font-size:64px;
+}
+
+.btn{
+  display:table;
+  margin:0 auto;
+  width:50%;
+  background-color:#5f5fd3;
+  height:20%;
+  font-size:36px;
+}
+
+#browse{
+  margin-top:20%;
+}
+
+#submit{
+  margin-top:15%;
+}
+
+#signup{
+  margin-top:-4.5%;
+  margin-left:2.5%;
+  width:10%;
+  height:10%;
+  font-size:24px;
+  float:left;
+}
+
+#login{
+  margin-top:-4.5%;
+  margin-right:2.5%;
+  width:10%;
+  height:10%;
+  font-size:24px;
+  float:right;
+}
+
+#about{
+  margin-top:2.5%;
+  margin-bottom:2.5%;
+  width:10%;
+  height:5%;
+  font-size:24px;
+  padding-bottom:2.5%;
+}
