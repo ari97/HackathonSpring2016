@@ -93,6 +93,13 @@ if(!mysqli_select_db($conn, $dbname)){
   INSERT INTO SubCategory 
   VALUES ('$nameofcategory', '$CategoryID')");
   
+  mysqli_query($conn, "
+    CREATE TABLE Votes(
+    PostID INT,
+    UserID INT
+    Vote ENUM('UP','DOWN')
+    )
+  ");
   
   //Let's Populate the DB w/ some actual info:
   

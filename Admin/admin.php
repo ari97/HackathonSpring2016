@@ -1,9 +1,9 @@
 <?php
 require_once("../MySQL/dbConnect.php");
-function isMod($userID, $categoryID){
-  $modStatusQuery=query("SELECT ModStatus FROM Users WHERE UserID=$userID");
-  $modStatus=mysqli_fetch_assoc($modStatusQuery);
-  if($modStatus["ModStatus"]=='Y'){
+function isAdmin($userID, $categoryID){
+  $adminStatusQuery=query("SELECT AdminStatus FROM Users WHERE UserID=$userID");
+  $adminStatus=mysqli_fetch_assoc($adminStatusQuery);
+  if($adminStatus["AdminStatus"]=='Y'){
     $sql = "SELECT CategoryID FROM Duties where UserID = $userID";
     $query = query($sql);
     while($row = mysqli_fetch_assoc($query)){

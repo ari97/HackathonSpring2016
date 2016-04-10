@@ -608,3 +608,486 @@
 [10-Apr-2016 04:08:35 UTC] PHP Fatal error:  require_once(): Failed opening required 'MySQL/dbConnect.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/Index/index.php on line 2
 [10-Apr-2016 04:08:35 UTC] PHP Stack trace:
 [10-Apr-2016 04:08:35 UTC] PHP   1. {main}() /home/ubuntu/workspace/Index/index.php:0
+[10-Apr-2016 04:56:34 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/Browse/browse.php on line 15
+[10-Apr-2016 04:56:34 UTC] PHP Stack trace:
+[10-Apr-2016 04:56:34 UTC] PHP   1. {main}() /home/ubuntu/workspace/Browse/browse.php:0
+[10-Apr-2016 04:56:34 UTC] PHP   2. mysqli_fetch_assoc() /home/ubuntu/workspace/Browse/browse.php:15
+[10-Apr-2016 04:56:34 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/Browse/browse.php on line 50
+[10-Apr-2016 04:56:34 UTC] PHP Stack trace:
+[10-Apr-2016 04:56:34 UTC] PHP   1. {main}() /home/ubuntu/workspace/Browse/browse.php:0
+[10-Apr-2016 04:56:34 UTC] PHP   2. mysqli_fetch_assoc() /home/ubuntu/workspace/Browse/browse.php:50
+[10-Apr-2016 05:15:28 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/Browse/browse.php on line 15
+[10-Apr-2016 05:15:28 UTC] PHP Stack trace:
+[10-Apr-2016 05:15:28 UTC] PHP   1. {main}() /home/ubuntu/workspace/Browse/browse.php:0
+[10-Apr-2016 05:15:28 UTC] PHP   2. mysqli_fetch_assoc() /home/ubuntu/workspace/Browse/browse.php:15
+[10-Apr-2016 05:15:28 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/Mod/mod.php on line 6
+[10-Apr-2016 05:15:28 UTC] PHP Stack trace:
+[10-Apr-2016 05:15:28 UTC] PHP   1. {main}() /home/ubuntu/workspace/Browse/browse.php:0
+[10-Apr-2016 05:15:28 UTC] PHP   2. isMod() /home/ubuntu/workspace/Browse/browse.php:16
+[10-Apr-2016 05:15:28 UTC] PHP   3. mysqli_fetch_assoc() /home/ubuntu/workspace/Mod/mod.php:6
+[10-Apr-2016 05:15:28 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/Browse/browse.php on line 56
+[10-Apr-2016 05:15:28 UTC] PHP Stack trace:
+[10-Apr-2016 05:15:28 UTC] PHP   1. {main}() /home/ubuntu/workspace/Browse/browse.php:0
+[10-Apr-2016 05:15:28 UTC] PHP   2. mysqli_fetch_assoc() /home/ubuntu/workspace/Browse/browse.php:56
+[10-Apr-2016 05:15:36 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/Mod/mod.php on line 6
+[10-Apr-2016 05:15:36 UTC] PHP Stack trace:
+[10-Apr-2016 05:15:36 UTC] PHP   1. {main}() /home/ubuntu/workspace/Browse/browse.php:0
+[10-Apr-2016 05:15:36 UTC] PHP   2. isMod() /home/ubuntu/workspace/Browse/browse.php:16
+[10-Apr-2016 05:15:36 UTC] PHP   3. mysqli_fetch_assoc() /home/ubuntu/workspace/Mod/mod.php:6
+[10-Apr-2016 05:19:01 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/Mod/mod.php on line 9
+[10-Apr-2016 05:19:01 UTC] PHP Stack trace:
+[10-Apr-2016 05:19:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/Browse/browse.php:0
+[10-Apr-2016 05:19:01 UTC] PHP   2. isMod() /home/ubuntu/workspace/Browse/browse.php:16
+[10-Apr-2016 05:19:01 UTC] PHP   3. mysqli_fetch_assoc() /home/ubuntu/workspace/Mod/mod.php:9
+[10-Apr-2016 05:19:04 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/Mod/mod.php on line 9
+[10-Apr-2016 05:19:04 UTC] PHP Stack trace:
+[10-Apr-2016 05:19:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/Browse/browse.php:0
+[10-Apr-2016 05:19:04 UTC] PHP   2. isMod() /home/ubuntu/workspace/Browse/browse.php:16
+[10-Apr-2016 05:19:04 UTC] PHP   3. mysqli_fetch_assoc() /home/ubuntu/workspace/Mod/mod.php:9
+[10-Apr-2016 05:42:13 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/Browse/browse.php on line 16
+[10-Apr-2016 05:42:13 UTC] PHP Stack trace:
+[10-Apr-2016 05:42:13 UTC] PHP   1. {main}() /home/ubuntu/workspace/Browse/browse.php:0
+[10-Apr-2016 05:42:13 UTC] PHP   2. mysqli_fetch_assoc() /home/ubuntu/workspace/Browse/browse.php:16
+[10-Apr-2016 05:42:13 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/Browse/browse.php on line 59
+[10-Apr-2016 05:42:13 UTC] PHP Stack trace:
+[10-Apr-2016 05:42:13 UTC] PHP   1. {main}() /home/ubuntu/workspace/Browse/browse.php:0
+[10-Apr-2016 05:42:13 UTC] PHP   2. mysqli_fetch_assoc() /home/ubuntu/workspace/Browse/browse.php:59
+[10-Apr-2016 05:42:26 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/Browse/browse.php on line 16
+[10-Apr-2016 05:42:26 UTC] PHP Stack trace:
+[10-Apr-2016 05:42:26 UTC] PHP   1. {main}() /home/ubuntu/workspace/Browse/browse.php:0
+[10-Apr-2016 05:42:26 UTC] PHP   2. mysqli_fetch_assoc() /home/ubuntu/workspace/Browse/browse.php:16
+[10-Apr-2016 05:42:26 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/Browse/browse.php on line 59
+[10-Apr-2016 05:42:26 UTC] PHP Stack trace:
+[10-Apr-2016 05:42:26 UTC] PHP   1. {main}() /home/ubuntu/workspace/Browse/browse.php:0
+[10-Apr-2016 05:42:26 UTC] PHP   2. mysqli_fetch_assoc() /home/ubuntu/workspace/Browse/browse.php:59
+[10-Apr-2016 06:50:13 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/Admin/adminComment.php on line 9
+[10-Apr-2016 06:50:13 UTC] PHP Stack trace:
+[10-Apr-2016 06:50:13 UTC] PHP   1. {main}() /home/ubuntu/workspace/Admin/adminComment.php:0
+[10-Apr-2016 06:50:13 UTC] PHP   2. mysqli_fetch_assoc() /home/ubuntu/workspace/Admin/adminComment.php:9
+[10-Apr-2016 06:50:27 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/Admin/adminComment.php on line 9
+[10-Apr-2016 06:50:27 UTC] PHP Stack trace:
+[10-Apr-2016 06:50:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/Admin/adminComment.php:0
+[10-Apr-2016 06:50:27 UTC] PHP   2. mysqli_fetch_assoc() /home/ubuntu/workspace/Admin/adminComment.php:9
+[10-Apr-2016 06:50:34 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/Admin/adminComment.php on line 9
+[10-Apr-2016 06:50:34 UTC] PHP Stack trace:
+[10-Apr-2016 06:50:34 UTC] PHP   1. {main}() /home/ubuntu/workspace/Admin/adminComment.php:0
+[10-Apr-2016 06:50:34 UTC] PHP   2. mysqli_fetch_assoc() /home/ubuntu/workspace/Admin/adminComment.php:9
+[10-Apr-2016 06:50:55 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/Admin/adminComment.php on line 9
+[10-Apr-2016 06:50:55 UTC] PHP Stack trace:
+[10-Apr-2016 06:50:55 UTC] PHP   1. {main}() /home/ubuntu/workspace/Admin/adminComment.php:0
+[10-Apr-2016 06:50:55 UTC] PHP   2. mysqli_fetch_assoc() /home/ubuntu/workspace/Admin/adminComment.php:9
+[10-Apr-2016 06:54:23 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/Post/post.php on line 8
+[10-Apr-2016 06:54:23 UTC] PHP Stack trace:
+[10-Apr-2016 06:54:23 UTC] PHP   1. {main}() /home/ubuntu/workspace/Post/post.php:0
+[10-Apr-2016 06:54:23 UTC] PHP   2. mysqli_fetch_assoc() /home/ubuntu/workspace/Post/post.php:8
+[10-Apr-2016 07:06:21 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/Admin/adminComment.php on line 8
+[10-Apr-2016 07:06:21 UTC] PHP Stack trace:
+[10-Apr-2016 07:06:21 UTC] PHP   1. {main}() /home/ubuntu/workspace/Admin/adminComment.php:0
+[10-Apr-2016 07:06:21 UTC] PHP   2. mysqli_fetch_assoc() /home/ubuntu/workspace/Admin/adminComment.php:8
+[10-Apr-2016 07:11:00 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/Browse/browse.php on line 16
+[10-Apr-2016 07:11:00 UTC] PHP Stack trace:
+[10-Apr-2016 07:11:00 UTC] PHP   1. {main}() /home/ubuntu/workspace/Browse/browse.php:0
+[10-Apr-2016 07:11:00 UTC] PHP   2. mysqli_fetch_assoc() /home/ubuntu/workspace/Browse/browse.php:16
+[10-Apr-2016 07:11:00 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/Browse/browse.php on line 59
+[10-Apr-2016 07:11:00 UTC] PHP Stack trace:
+[10-Apr-2016 07:11:00 UTC] PHP   1. {main}() /home/ubuntu/workspace/Browse/browse.php:0
+[10-Apr-2016 07:11:00 UTC] PHP   2. mysqli_fetch_assoc() /home/ubuntu/workspace/Browse/browse.php:59
+[10-Apr-2016 07:14:48 UTC] PHP Fatal error:  Call to undefined function isAdmin() in /home/ubuntu/workspace/Post/post.php on line 10
+[10-Apr-2016 07:14:48 UTC] PHP Stack trace:
+[10-Apr-2016 07:14:48 UTC] PHP   1. {main}() /home/ubuntu/workspace/Post/post.php:0
+[10-Apr-2016 07:16:57 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/Browse/browse.php on line 16
+[10-Apr-2016 07:16:57 UTC] PHP Stack trace:
+[10-Apr-2016 07:16:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/Browse/browse.php:0
+[10-Apr-2016 07:16:57 UTC] PHP   2. mysqli_fetch_assoc() /home/ubuntu/workspace/Browse/browse.php:16
+[10-Apr-2016 07:16:57 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/Browse/browse.php on line 59
+[10-Apr-2016 07:16:57 UTC] PHP Stack trace:
+[10-Apr-2016 07:16:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/Browse/browse.php:0
+[10-Apr-2016 07:16:57 UTC] PHP   2. mysqli_fetch_assoc() /home/ubuntu/workspace/Browse/browse.php:59
+[10-Apr-2016 07:23:33 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/Browse/browse.php on line 16
+[10-Apr-2016 07:23:33 UTC] PHP Stack trace:
+[10-Apr-2016 07:23:33 UTC] PHP   1. {main}() /home/ubuntu/workspace/Browse/browse.php:0
+[10-Apr-2016 07:23:33 UTC] PHP   2. mysqli_fetch_assoc() /home/ubuntu/workspace/Browse/browse.php:16
+[10-Apr-2016 07:23:33 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/Browse/browse.php on line 59
+[10-Apr-2016 07:23:33 UTC] PHP Stack trace:
+[10-Apr-2016 07:23:33 UTC] PHP   1. {main}() /home/ubuntu/workspace/Browse/browse.php:0
+[10-Apr-2016 07:23:33 UTC] PHP   2. mysqli_fetch_assoc() /home/ubuntu/workspace/Browse/browse.php:59
+[10-Apr-2016 07:42:57 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/Browse/browse.php on line 16
+[10-Apr-2016 07:42:57 UTC] PHP Stack trace:
+[10-Apr-2016 07:42:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/Browse/browse.php:0
+[10-Apr-2016 07:42:57 UTC] PHP   2. mysqli_fetch_assoc() /home/ubuntu/workspace/Browse/browse.php:16
+[10-Apr-2016 07:42:57 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/Browse/browse.php on line 59
+[10-Apr-2016 07:42:57 UTC] PHP Stack trace:
+[10-Apr-2016 07:42:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/Browse/browse.php:0
+[10-Apr-2016 07:42:57 UTC] PHP   2. mysqli_fetch_assoc() /home/ubuntu/workspace/Browse/browse.php:59
+[10-Apr-2016 07:43:14 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/Browse/browse.php on line 16
+[10-Apr-2016 07:43:14 UTC] PHP Stack trace:
+[10-Apr-2016 07:43:14 UTC] PHP   1. {main}() /home/ubuntu/workspace/Browse/browse.php:0
+[10-Apr-2016 07:43:14 UTC] PHP   2. mysqli_fetch_assoc() /home/ubuntu/workspace/Browse/browse.php:16
+[10-Apr-2016 07:43:14 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/Browse/browse.php on line 59
+[10-Apr-2016 07:43:14 UTC] PHP Stack trace:
+[10-Apr-2016 07:43:14 UTC] PHP   1. {main}() /home/ubuntu/workspace/Browse/browse.php:0
+[10-Apr-2016 07:43:14 UTC] PHP   2. mysqli_fetch_assoc() /home/ubuntu/workspace/Browse/browse.php:59
+[10-Apr-2016 07:43:21 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/Browse/browse.php on line 16
+[10-Apr-2016 07:43:21 UTC] PHP Stack trace:
+[10-Apr-2016 07:43:21 UTC] PHP   1. {main}() /home/ubuntu/workspace/Browse/browse.php:0
+[10-Apr-2016 07:43:21 UTC] PHP   2. mysqli_fetch_assoc() /home/ubuntu/workspace/Browse/browse.php:16
+[10-Apr-2016 07:43:21 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/Browse/browse.php on line 59
+[10-Apr-2016 07:43:21 UTC] PHP Stack trace:
+[10-Apr-2016 07:43:21 UTC] PHP   1. {main}() /home/ubuntu/workspace/Browse/browse.php:0
+[10-Apr-2016 07:43:21 UTC] PHP   2. mysqli_fetch_assoc() /home/ubuntu/workspace/Browse/browse.php:59
+[10-Apr-2016 07:43:55 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/Browse/browse.php on line 17
+[10-Apr-2016 07:43:55 UTC] PHP Stack trace:
+[10-Apr-2016 07:43:55 UTC] PHP   1. {main}() /home/ubuntu/workspace/Browse/browse.php:0
+[10-Apr-2016 07:43:55 UTC] PHP   2. mysqli_fetch_assoc() /home/ubuntu/workspace/Browse/browse.php:17
+[10-Apr-2016 07:43:55 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/Browse/browse.php on line 60
+[10-Apr-2016 07:43:55 UTC] PHP Stack trace:
+[10-Apr-2016 07:43:55 UTC] PHP   1. {main}() /home/ubuntu/workspace/Browse/browse.php:0
+[10-Apr-2016 07:43:55 UTC] PHP   2. mysqli_fetch_assoc() /home/ubuntu/workspace/Browse/browse.php:60
+[10-Apr-2016 07:45:06 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/Browse/browse.php on line 17
+[10-Apr-2016 07:45:06 UTC] PHP Stack trace:
+[10-Apr-2016 07:45:06 UTC] PHP   1. {main}() /home/ubuntu/workspace/Browse/browse.php:0
+[10-Apr-2016 07:45:06 UTC] PHP   2. mysqli_fetch_assoc() /home/ubuntu/workspace/Browse/browse.php:17
+[10-Apr-2016 07:45:06 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/Browse/browse.php on line 60
+[10-Apr-2016 07:45:06 UTC] PHP Stack trace:
+[10-Apr-2016 07:45:06 UTC] PHP   1. {main}() /home/ubuntu/workspace/Browse/browse.php:0
+[10-Apr-2016 07:45:06 UTC] PHP   2. mysqli_fetch_assoc() /home/ubuntu/workspace/Browse/browse.php:60
+[10-Apr-2016 07:46:41 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/Browse/browse.php on line 17
+[10-Apr-2016 07:46:41 UTC] PHP Stack trace:
+[10-Apr-2016 07:46:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/Browse/browse.php:0
+[10-Apr-2016 07:46:41 UTC] PHP   2. mysqli_fetch_assoc() /home/ubuntu/workspace/Browse/browse.php:17
+[10-Apr-2016 07:46:41 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/Browse/browse.php on line 60
+[10-Apr-2016 07:46:41 UTC] PHP Stack trace:
+[10-Apr-2016 07:46:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/Browse/browse.php:0
+[10-Apr-2016 07:46:41 UTC] PHP   2. mysqli_fetch_assoc() /home/ubuntu/workspace/Browse/browse.php:60
+[10-Apr-2016 07:47:20 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/Browse/browse.php on line 17
+[10-Apr-2016 07:47:20 UTC] PHP Stack trace:
+[10-Apr-2016 07:47:20 UTC] PHP   1. {main}() /home/ubuntu/workspace/Browse/browse.php:0
+[10-Apr-2016 07:47:20 UTC] PHP   2. mysqli_fetch_assoc() /home/ubuntu/workspace/Browse/browse.php:17
+[10-Apr-2016 07:47:20 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/Browse/browse.php on line 60
+[10-Apr-2016 07:47:20 UTC] PHP Stack trace:
+[10-Apr-2016 07:47:20 UTC] PHP   1. {main}() /home/ubuntu/workspace/Browse/browse.php:0
+[10-Apr-2016 07:47:20 UTC] PHP   2. mysqli_fetch_assoc() /home/ubuntu/workspace/Browse/browse.php:60
+[10-Apr-2016 07:49:43 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/Browse/browse.php on line 17
+[10-Apr-2016 07:49:43 UTC] PHP Stack trace:
+[10-Apr-2016 07:49:43 UTC] PHP   1. {main}() /home/ubuntu/workspace/Browse/browse.php:0
+[10-Apr-2016 07:49:43 UTC] PHP   2. mysqli_fetch_assoc() /home/ubuntu/workspace/Browse/browse.php:17
+[10-Apr-2016 07:49:43 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/Browse/browse.php on line 60
+[10-Apr-2016 07:49:43 UTC] PHP Stack trace:
+[10-Apr-2016 07:49:43 UTC] PHP   1. {main}() /home/ubuntu/workspace/Browse/browse.php:0
+[10-Apr-2016 07:49:43 UTC] PHP   2. mysqli_fetch_assoc() /home/ubuntu/workspace/Browse/browse.php:60
+[10-Apr-2016 07:50:53 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/Browse/browse.php on line 17
+[10-Apr-2016 07:50:53 UTC] PHP Stack trace:
+[10-Apr-2016 07:50:53 UTC] PHP   1. {main}() /home/ubuntu/workspace/Browse/browse.php:0
+[10-Apr-2016 07:50:53 UTC] PHP   2. mysqli_fetch_assoc() /home/ubuntu/workspace/Browse/browse.php:17
+[10-Apr-2016 07:50:53 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/Browse/browse.php on line 60
+[10-Apr-2016 07:50:53 UTC] PHP Stack trace:
+[10-Apr-2016 07:50:53 UTC] PHP   1. {main}() /home/ubuntu/workspace/Browse/browse.php:0
+[10-Apr-2016 07:50:53 UTC] PHP   2. mysqli_fetch_assoc() /home/ubuntu/workspace/Browse/browse.php:60
+[10-Apr-2016 07:51:10 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/Browse/browse.php on line 17
+[10-Apr-2016 07:51:10 UTC] PHP Stack trace:
+[10-Apr-2016 07:51:10 UTC] PHP   1. {main}() /home/ubuntu/workspace/Browse/browse.php:0
+[10-Apr-2016 07:51:10 UTC] PHP   2. mysqli_fetch_assoc() /home/ubuntu/workspace/Browse/browse.php:17
+[10-Apr-2016 07:51:10 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/Browse/browse.php on line 60
+[10-Apr-2016 07:51:10 UTC] PHP Stack trace:
+[10-Apr-2016 07:51:10 UTC] PHP   1. {main}() /home/ubuntu/workspace/Browse/browse.php:0
+[10-Apr-2016 07:51:10 UTC] PHP   2. mysqli_fetch_assoc() /home/ubuntu/workspace/Browse/browse.php:60
+[10-Apr-2016 07:52:40 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/Browse/browse.php on line 17
+[10-Apr-2016 07:52:40 UTC] PHP Stack trace:
+[10-Apr-2016 07:52:40 UTC] PHP   1. {main}() /home/ubuntu/workspace/Browse/browse.php:0
+[10-Apr-2016 07:52:40 UTC] PHP   2. mysqli_fetch_assoc() /home/ubuntu/workspace/Browse/browse.php:17
+[10-Apr-2016 07:52:40 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/Browse/browse.php on line 60
+[10-Apr-2016 07:52:40 UTC] PHP Stack trace:
+[10-Apr-2016 07:52:40 UTC] PHP   1. {main}() /home/ubuntu/workspace/Browse/browse.php:0
+[10-Apr-2016 07:52:40 UTC] PHP   2. mysqli_fetch_assoc() /home/ubuntu/workspace/Browse/browse.php:60
+[10-Apr-2016 07:57:31 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/Browse/browse.php on line 17
+[10-Apr-2016 07:57:31 UTC] PHP Stack trace:
+[10-Apr-2016 07:57:31 UTC] PHP   1. {main}() /home/ubuntu/workspace/Browse/browse.php:0
+[10-Apr-2016 07:57:31 UTC] PHP   2. mysqli_fetch_assoc() /home/ubuntu/workspace/Browse/browse.php:17
+[10-Apr-2016 07:57:31 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/Browse/browse.php on line 60
+[10-Apr-2016 07:57:31 UTC] PHP Stack trace:
+[10-Apr-2016 07:57:31 UTC] PHP   1. {main}() /home/ubuntu/workspace/Browse/browse.php:0
+[10-Apr-2016 07:57:31 UTC] PHP   2. mysqli_fetch_assoc() /home/ubuntu/workspace/Browse/browse.php:60
+[10-Apr-2016 07:57:56 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/Browse/browse.php on line 17
+[10-Apr-2016 07:57:56 UTC] PHP Stack trace:
+[10-Apr-2016 07:57:56 UTC] PHP   1. {main}() /home/ubuntu/workspace/Browse/browse.php:0
+[10-Apr-2016 07:57:56 UTC] PHP   2. mysqli_fetch_assoc() /home/ubuntu/workspace/Browse/browse.php:17
+[10-Apr-2016 07:57:56 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/Browse/browse.php on line 60
+[10-Apr-2016 07:57:56 UTC] PHP Stack trace:
+[10-Apr-2016 07:57:56 UTC] PHP   1. {main}() /home/ubuntu/workspace/Browse/browse.php:0
+[10-Apr-2016 07:57:56 UTC] PHP   2. mysqli_fetch_assoc() /home/ubuntu/workspace/Browse/browse.php:60
+[10-Apr-2016 07:58:05 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/Browse/browse.php on line 17
+[10-Apr-2016 07:58:05 UTC] PHP Stack trace:
+[10-Apr-2016 07:58:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/Browse/browse.php:0
+[10-Apr-2016 07:58:05 UTC] PHP   2. mysqli_fetch_assoc() /home/ubuntu/workspace/Browse/browse.php:17
+[10-Apr-2016 07:58:05 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/Browse/browse.php on line 60
+[10-Apr-2016 07:58:05 UTC] PHP Stack trace:
+[10-Apr-2016 07:58:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/Browse/browse.php:0
+[10-Apr-2016 07:58:05 UTC] PHP   2. mysqli_fetch_assoc() /home/ubuntu/workspace/Browse/browse.php:60
+[10-Apr-2016 08:00:12 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/Browse/browse.php on line 17
+[10-Apr-2016 08:00:12 UTC] PHP Stack trace:
+[10-Apr-2016 08:00:12 UTC] PHP   1. {main}() /home/ubuntu/workspace/Browse/browse.php:0
+[10-Apr-2016 08:00:12 UTC] PHP   2. mysqli_fetch_assoc() /home/ubuntu/workspace/Browse/browse.php:17
+[10-Apr-2016 08:00:12 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/Browse/browse.php on line 60
+[10-Apr-2016 08:00:12 UTC] PHP Stack trace:
+[10-Apr-2016 08:00:12 UTC] PHP   1. {main}() /home/ubuntu/workspace/Browse/browse.php:0
+[10-Apr-2016 08:00:12 UTC] PHP   2. mysqli_fetch_assoc() /home/ubuntu/workspace/Browse/browse.php:60
+[10-Apr-2016 08:04:24 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/Browse/browse.php on line 17
+[10-Apr-2016 08:04:24 UTC] PHP Stack trace:
+[10-Apr-2016 08:04:24 UTC] PHP   1. {main}() /home/ubuntu/workspace/Browse/browse.php:0
+[10-Apr-2016 08:04:24 UTC] PHP   2. mysqli_fetch_assoc() /home/ubuntu/workspace/Browse/browse.php:17
+[10-Apr-2016 08:04:24 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/Browse/browse.php on line 60
+[10-Apr-2016 08:04:24 UTC] PHP Stack trace:
+[10-Apr-2016 08:04:24 UTC] PHP   1. {main}() /home/ubuntu/workspace/Browse/browse.php:0
+[10-Apr-2016 08:04:24 UTC] PHP   2. mysqli_fetch_assoc() /home/ubuntu/workspace/Browse/browse.php:60
+[10-Apr-2016 08:05:40 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/Browse/browse.php on line 59
+[10-Apr-2016 08:05:40 UTC] PHP Stack trace:
+[10-Apr-2016 08:05:40 UTC] PHP   1. {main}() /home/ubuntu/workspace/Browse/browse.php:0
+[10-Apr-2016 08:05:40 UTC] PHP   2. mysqli_fetch_assoc() /home/ubuntu/workspace/Browse/browse.php:59
+[10-Apr-2016 08:05:55 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/Browse/browse.php on line 59
+[10-Apr-2016 08:05:55 UTC] PHP Stack trace:
+[10-Apr-2016 08:05:55 UTC] PHP   1. {main}() /home/ubuntu/workspace/Browse/browse.php:0
+[10-Apr-2016 08:05:55 UTC] PHP   2. mysqli_fetch_assoc() /home/ubuntu/workspace/Browse/browse.php:59
+[10-Apr-2016 08:07:03 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/Browse/browse.php on line 59
+[10-Apr-2016 08:07:03 UTC] PHP Stack trace:
+[10-Apr-2016 08:07:03 UTC] PHP   1. {main}() /home/ubuntu/workspace/Browse/browse.php:0
+[10-Apr-2016 08:07:03 UTC] PHP   2. mysqli_fetch_assoc() /home/ubuntu/workspace/Browse/browse.php:59
+[10-Apr-2016 08:07:54 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/Browse/browse.php on line 59
+[10-Apr-2016 08:07:54 UTC] PHP Stack trace:
+[10-Apr-2016 08:07:54 UTC] PHP   1. {main}() /home/ubuntu/workspace/Browse/browse.php:0
+[10-Apr-2016 08:07:54 UTC] PHP   2. mysqli_fetch_assoc() /home/ubuntu/workspace/Browse/browse.php:59
+[10-Apr-2016 08:10:56 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/ubuntu/workspace/Submit/submit.php on line 46
+[10-Apr-2016 08:20:31 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/Post/post.php on line 9
+[10-Apr-2016 08:20:31 UTC] PHP Stack trace:
+[10-Apr-2016 08:20:31 UTC] PHP   1. {main}() /home/ubuntu/workspace/Post/post.php:0
+[10-Apr-2016 08:20:31 UTC] PHP   2. mysqli_fetch_assoc() /home/ubuntu/workspace/Post/post.php:9
+[10-Apr-2016 08:20:33 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/Post/post.php on line 9
+[10-Apr-2016 08:20:33 UTC] PHP Stack trace:
+[10-Apr-2016 08:20:33 UTC] PHP   1. {main}() /home/ubuntu/workspace/Post/post.php:0
+[10-Apr-2016 08:20:33 UTC] PHP   2. mysqli_fetch_assoc() /home/ubuntu/workspace/Post/post.php:9
+[10-Apr-2016 08:20:34 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/Post/post.php on line 9
+[10-Apr-2016 08:20:34 UTC] PHP Stack trace:
+[10-Apr-2016 08:20:34 UTC] PHP   1. {main}() /home/ubuntu/workspace/Post/post.php:0
+[10-Apr-2016 08:20:34 UTC] PHP   2. mysqli_fetch_assoc() /home/ubuntu/workspace/Post/post.php:9
+[10-Apr-2016 08:21:46 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/Post/post.php on line 9
+[10-Apr-2016 08:21:46 UTC] PHP Stack trace:
+[10-Apr-2016 08:21:46 UTC] PHP   1. {main}() /home/ubuntu/workspace/Post/post.php:0
+[10-Apr-2016 08:21:46 UTC] PHP   2. mysqli_fetch_assoc() /home/ubuntu/workspace/Post/post.php:9
+[10-Apr-2016 08:30:57 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/Submit/confirm.php on line 31
+[10-Apr-2016 08:30:57 UTC] PHP Stack trace:
+[10-Apr-2016 08:30:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/Submit/confirm.php:0
+[10-Apr-2016 08:30:57 UTC] PHP   2. mysqli_fetch_assoc() /home/ubuntu/workspace/Submit/confirm.php:31
+[10-Apr-2016 08:30:57 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/Browse/browse.php on line 59
+[10-Apr-2016 08:30:57 UTC] PHP Stack trace:
+[10-Apr-2016 08:30:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/Browse/browse.php:0
+[10-Apr-2016 08:30:57 UTC] PHP   2. mysqli_fetch_assoc() /home/ubuntu/workspace/Browse/browse.php:59
+[10-Apr-2016 08:38:55 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/Submit/confirm.php on line 31
+[10-Apr-2016 08:38:55 UTC] PHP Stack trace:
+[10-Apr-2016 08:38:55 UTC] PHP   1. {main}() /home/ubuntu/workspace/Submit/confirm.php:0
+[10-Apr-2016 08:38:55 UTC] PHP   2. mysqli_fetch_assoc() /home/ubuntu/workspace/Submit/confirm.php:31
+[10-Apr-2016 08:38:55 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/Browse/browse.php on line 59
+[10-Apr-2016 08:38:55 UTC] PHP Stack trace:
+[10-Apr-2016 08:38:55 UTC] PHP   1. {main}() /home/ubuntu/workspace/Browse/browse.php:0
+[10-Apr-2016 08:38:55 UTC] PHP   2. mysqli_fetch_assoc() /home/ubuntu/workspace/Browse/browse.php:59
+[10-Apr-2016 08:44:57 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/Submit/confirm.php on line 31
+[10-Apr-2016 08:44:57 UTC] PHP Stack trace:
+[10-Apr-2016 08:44:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/Submit/confirm.php:0
+[10-Apr-2016 08:44:57 UTC] PHP   2. mysqli_fetch_assoc() /home/ubuntu/workspace/Submit/confirm.php:31
+[10-Apr-2016 08:44:57 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/Browse/browse.php on line 59
+[10-Apr-2016 08:44:57 UTC] PHP Stack trace:
+[10-Apr-2016 08:44:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/Browse/browse.php:0
+[10-Apr-2016 08:44:57 UTC] PHP   2. mysqli_fetch_assoc() /home/ubuntu/workspace/Browse/browse.php:59
+[10-Apr-2016 09:19:10 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/Browse/browse.php on line 59
+[10-Apr-2016 09:19:10 UTC] PHP Stack trace:
+[10-Apr-2016 09:19:10 UTC] PHP   1. {main}() /home/ubuntu/workspace/Browse/browse.php:0
+[10-Apr-2016 09:19:10 UTC] PHP   2. mysqli_fetch_assoc() /home/ubuntu/workspace/Browse/browse.php:59
+[10-Apr-2016 09:25:18 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/Browse/browse.php on line 59
+[10-Apr-2016 09:25:18 UTC] PHP Stack trace:
+[10-Apr-2016 09:25:18 UTC] PHP   1. {main}() /home/ubuntu/workspace/Browse/browse.php:0
+[10-Apr-2016 09:25:18 UTC] PHP   2. mysqli_fetch_assoc() /home/ubuntu/workspace/Browse/browse.php:59
+[10-Apr-2016 09:25:58 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/Browse/browse.php on line 59
+[10-Apr-2016 09:25:58 UTC] PHP Stack trace:
+[10-Apr-2016 09:25:58 UTC] PHP   1. {main}() /home/ubuntu/workspace/Browse/browse.php:0
+[10-Apr-2016 09:25:58 UTC] PHP   2. mysqli_fetch_assoc() /home/ubuntu/workspace/Browse/browse.php:59
+[10-Apr-2016 09:27:38 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/Browse/browse.php on line 59
+[10-Apr-2016 09:27:38 UTC] PHP Stack trace:
+[10-Apr-2016 09:27:38 UTC] PHP   1. {main}() /home/ubuntu/workspace/Browse/browse.php:0
+[10-Apr-2016 09:27:38 UTC] PHP   2. mysqli_fetch_assoc() /home/ubuntu/workspace/Browse/browse.php:59
+[10-Apr-2016 09:28:47 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/Browse/browse.php on line 59
+[10-Apr-2016 09:28:47 UTC] PHP Stack trace:
+[10-Apr-2016 09:28:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/Browse/browse.php:0
+[10-Apr-2016 09:28:47 UTC] PHP   2. mysqli_fetch_assoc() /home/ubuntu/workspace/Browse/browse.php:59
+[10-Apr-2016 09:28:52 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/Browse/browse.php on line 59
+[10-Apr-2016 09:28:52 UTC] PHP Stack trace:
+[10-Apr-2016 09:28:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/Browse/browse.php:0
+[10-Apr-2016 09:28:52 UTC] PHP   2. mysqli_fetch_assoc() /home/ubuntu/workspace/Browse/browse.php:59
+[10-Apr-2016 09:38:18 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/Browse/browse.php on line 59
+[10-Apr-2016 09:38:18 UTC] PHP Stack trace:
+[10-Apr-2016 09:38:18 UTC] PHP   1. {main}() /home/ubuntu/workspace/Browse/browse.php:0
+[10-Apr-2016 09:38:18 UTC] PHP   2. mysqli_fetch_assoc() /home/ubuntu/workspace/Browse/browse.php:59
+[10-Apr-2016 09:38:46 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/ubuntu/workspace/Post/post.php on line 31
+[10-Apr-2016 09:39:29 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/Browse/browse.php on line 59
+[10-Apr-2016 09:39:29 UTC] PHP Stack trace:
+[10-Apr-2016 09:39:29 UTC] PHP   1. {main}() /home/ubuntu/workspace/Browse/browse.php:0
+[10-Apr-2016 09:39:29 UTC] PHP   2. mysqli_fetch_assoc() /home/ubuntu/workspace/Browse/browse.php:59
+[10-Apr-2016 09:42:25 UTC] PHP Warning:  require_once(category.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/Index/index.php on line 4
+[10-Apr-2016 09:42:25 UTC] PHP Stack trace:
+[10-Apr-2016 09:42:25 UTC] PHP   1. {main}() /home/ubuntu/workspace/Index/index.php:0
+[10-Apr-2016 09:42:25 UTC] PHP Fatal error:  require_once(): Failed opening required 'category.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/Index/index.php on line 4
+[10-Apr-2016 09:42:25 UTC] PHP Stack trace:
+[10-Apr-2016 09:42:25 UTC] PHP   1. {main}() /home/ubuntu/workspace/Index/index.php:0
+[10-Apr-2016 09:49:24 UTC] PHP Fatal error:  Cannot redeclare recursive() (previously declared in /home/ubuntu/workspace/Submit/category.php:2) in /home/ubuntu/workspace/Submit/category.php on line 261
+[10-Apr-2016 09:49:24 UTC] PHP Stack trace:
+[10-Apr-2016 09:49:24 UTC] PHP   1. {main}() /home/ubuntu/workspace/Index/index.php:0
+[10-Apr-2016 09:51:14 UTC] PHP Fatal error:  Cannot redeclare recursive() (previously declared in /home/ubuntu/workspace/Submit/category.php:2) in /home/ubuntu/workspace/Submit/category.php on line 261
+[10-Apr-2016 09:51:14 UTC] PHP Stack trace:
+[10-Apr-2016 09:51:14 UTC] PHP   1. {main}() /home/ubuntu/workspace/Index/index.php:0
+[10-Apr-2016 09:53:24 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/ubuntu/workspace/Submit/category.php on line 254
+[10-Apr-2016 09:53:24 UTC] PHP Stack trace:
+[10-Apr-2016 09:53:24 UTC] PHP   1. {main}() /home/ubuntu/workspace/Index/index.php:0
+[10-Apr-2016 09:53:59 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/Post/post.php on line 10
+[10-Apr-2016 09:53:59 UTC] PHP Stack trace:
+[10-Apr-2016 09:53:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/Post/post.php:0
+[10-Apr-2016 09:53:59 UTC] PHP   2. mysqli_fetch_assoc() /home/ubuntu/workspace/Post/post.php:10
+[10-Apr-2016 09:53:59 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/Post/vote.php on line 5
+[10-Apr-2016 09:53:59 UTC] PHP Stack trace:
+[10-Apr-2016 09:53:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/Post/post.php:0
+[10-Apr-2016 09:53:59 UTC] PHP   2. voted() /home/ubuntu/workspace/Post/post.php:76
+[10-Apr-2016 09:53:59 UTC] PHP   3. mysqli_fetch_assoc() /home/ubuntu/workspace/Post/vote.php:5
+[10-Apr-2016 09:53:59 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/Post/vote.php on line 5
+[10-Apr-2016 09:53:59 UTC] PHP Stack trace:
+[10-Apr-2016 09:53:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/Post/post.php:0
+[10-Apr-2016 09:53:59 UTC] PHP   2. voted() /home/ubuntu/workspace/Post/post.php:93
+[10-Apr-2016 09:53:59 UTC] PHP   3. mysqli_fetch_assoc() /home/ubuntu/workspace/Post/vote.php:5
+[10-Apr-2016 09:54:07 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/Post/post.php on line 10
+[10-Apr-2016 09:54:07 UTC] PHP Stack trace:
+[10-Apr-2016 09:54:07 UTC] PHP   1. {main}() /home/ubuntu/workspace/Post/post.php:0
+[10-Apr-2016 09:54:07 UTC] PHP   2. mysqli_fetch_assoc() /home/ubuntu/workspace/Post/post.php:10
+[10-Apr-2016 09:54:07 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/Post/post.php on line 24
+[10-Apr-2016 09:54:07 UTC] PHP Stack trace:
+[10-Apr-2016 09:54:07 UTC] PHP   1. {main}() /home/ubuntu/workspace/Post/post.php:0
+[10-Apr-2016 09:54:07 UTC] PHP   2. mysqli_fetch_assoc() /home/ubuntu/workspace/Post/post.php:24
+[10-Apr-2016 09:54:07 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/Post/vote.php on line 5
+[10-Apr-2016 09:54:07 UTC] PHP Stack trace:
+[10-Apr-2016 09:54:07 UTC] PHP   1. {main}() /home/ubuntu/workspace/Post/post.php:0
+[10-Apr-2016 09:54:07 UTC] PHP   2. voted() /home/ubuntu/workspace/Post/post.php:76
+[10-Apr-2016 09:54:07 UTC] PHP   3. mysqli_fetch_assoc() /home/ubuntu/workspace/Post/vote.php:5
+[10-Apr-2016 09:54:07 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/Post/vote.php on line 5
+[10-Apr-2016 09:54:07 UTC] PHP Stack trace:
+[10-Apr-2016 09:54:07 UTC] PHP   1. {main}() /home/ubuntu/workspace/Post/post.php:0
+[10-Apr-2016 09:54:07 UTC] PHP   2. voted() /home/ubuntu/workspace/Post/post.php:93
+[10-Apr-2016 09:54:07 UTC] PHP   3. mysqli_fetch_assoc() /home/ubuntu/workspace/Post/vote.php:5
+[10-Apr-2016 09:54:10 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/Post/post.php on line 10
+[10-Apr-2016 09:54:10 UTC] PHP Stack trace:
+[10-Apr-2016 09:54:10 UTC] PHP   1. {main}() /home/ubuntu/workspace/Post/post.php:0
+[10-Apr-2016 09:54:10 UTC] PHP   2. mysqli_fetch_assoc() /home/ubuntu/workspace/Post/post.php:10
+[10-Apr-2016 09:54:10 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/Post/vote.php on line 5
+[10-Apr-2016 09:54:10 UTC] PHP Stack trace:
+[10-Apr-2016 09:54:10 UTC] PHP   1. {main}() /home/ubuntu/workspace/Post/post.php:0
+[10-Apr-2016 09:54:10 UTC] PHP   2. voted() /home/ubuntu/workspace/Post/post.php:76
+[10-Apr-2016 09:54:10 UTC] PHP   3. mysqli_fetch_assoc() /home/ubuntu/workspace/Post/vote.php:5
+[10-Apr-2016 09:54:10 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/Post/vote.php on line 5
+[10-Apr-2016 09:54:10 UTC] PHP Stack trace:
+[10-Apr-2016 09:54:10 UTC] PHP   1. {main}() /home/ubuntu/workspace/Post/post.php:0
+[10-Apr-2016 09:54:10 UTC] PHP   2. voted() /home/ubuntu/workspace/Post/post.php:93
+[10-Apr-2016 09:54:10 UTC] PHP   3. mysqli_fetch_assoc() /home/ubuntu/workspace/Post/vote.php:5
+[10-Apr-2016 09:58:07 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/ubuntu/workspace/Submit/category.php on line 254
+[10-Apr-2016 09:58:07 UTC] PHP Stack trace:
+[10-Apr-2016 09:58:07 UTC] PHP   1. {main}() /home/ubuntu/workspace/Index/index.php:0
+[10-Apr-2016 10:03:33 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/ubuntu/workspace/Submit/category.php on line 254
+[10-Apr-2016 10:03:33 UTC] PHP Stack trace:
+[10-Apr-2016 10:03:33 UTC] PHP   1. {main}() /home/ubuntu/workspace/Index/index.php:0
+[10-Apr-2016 10:03:37 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/ubuntu/workspace/Submit/category.php on line 254
+[10-Apr-2016 10:03:37 UTC] PHP Stack trace:
+[10-Apr-2016 10:03:37 UTC] PHP   1. {main}() /home/ubuntu/workspace/Index/index.php:0
+[10-Apr-2016 10:03:59 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/ubuntu/workspace/Submit/category.php on line 254
+[10-Apr-2016 10:03:59 UTC] PHP Stack trace:
+[10-Apr-2016 10:03:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/Index/index.php:0
+[10-Apr-2016 10:12:09 UTC] PHP Fatal error:  Call to undefined function recursive() in /home/ubuntu/workspace/Index/index.php on line 40
+[10-Apr-2016 10:12:09 UTC] PHP Stack trace:
+[10-Apr-2016 10:12:09 UTC] PHP   1. {main}() /home/ubuntu/workspace/Index/index.php:0
+[10-Apr-2016 10:12:37 UTC] PHP Fatal error:  Call to undefined function recursive() in /home/ubuntu/workspace/Index/index.php on line 40
+[10-Apr-2016 10:12:37 UTC] PHP Stack trace:
+[10-Apr-2016 10:12:37 UTC] PHP   1. {main}() /home/ubuntu/workspace/Index/index.php:0
+[10-Apr-2016 10:12:53 UTC] PHP Fatal error:  Call to undefined function recursive() in /home/ubuntu/workspace/Index/index.php on line 41
+[10-Apr-2016 10:12:53 UTC] PHP Stack trace:
+[10-Apr-2016 10:12:53 UTC] PHP   1. {main}() /home/ubuntu/workspace/Index/index.php:0
+[10-Apr-2016 10:16:22 UTC] PHP Fatal error:  Call to undefined function recursive() in /home/ubuntu/workspace/Index/index.php on line 41
+[10-Apr-2016 10:16:22 UTC] PHP Stack trace:
+[10-Apr-2016 10:16:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/Index/index.php:0
+[10-Apr-2016 10:16:58 UTC] PHP Fatal error:  Call to undefined function recursive() in /home/ubuntu/workspace/Index/index.php on line 41
+[10-Apr-2016 10:16:58 UTC] PHP Stack trace:
+[10-Apr-2016 10:16:58 UTC] PHP   1. {main}() /home/ubuntu/workspace/Index/index.php:0
+[10-Apr-2016 10:17:07 UTC] PHP Fatal error:  Call to undefined function recursive() in /home/ubuntu/workspace/Index/index.php on line 41
+[10-Apr-2016 10:17:07 UTC] PHP Stack trace:
+[10-Apr-2016 10:17:07 UTC] PHP   1. {main}() /home/ubuntu/workspace/Index/index.php:0
+[10-Apr-2016 10:19:57 UTC] PHP Fatal error:  Call to undefined function recursive() in /home/ubuntu/workspace/Index/index.php on line 41
+[10-Apr-2016 10:19:57 UTC] PHP Stack trace:
+[10-Apr-2016 10:19:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/Index/index.php:0
+[10-Apr-2016 10:20:49 UTC] PHP Fatal error:  Call to undefined function recursive() in /home/ubuntu/workspace/Index/index.php on line 42
+[10-Apr-2016 10:20:49 UTC] PHP Stack trace:
+[10-Apr-2016 10:20:49 UTC] PHP   1. {main}() /home/ubuntu/workspace/Index/index.php:0
+[10-Apr-2016 10:21:47 UTC] PHP Fatal error:  Call to undefined function recursive() in /home/ubuntu/workspace/Index/index.php on line 41
+[10-Apr-2016 10:21:47 UTC] PHP Stack trace:
+[10-Apr-2016 10:21:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/Index/index.php:0
+[10-Apr-2016 10:28:41 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/Browse/browse.php on line 59
+[10-Apr-2016 10:28:41 UTC] PHP Stack trace:
+[10-Apr-2016 10:28:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/Browse/browse.php:0
+[10-Apr-2016 10:28:41 UTC] PHP   2. mysqli_fetch_assoc() /home/ubuntu/workspace/Browse/browse.php:59
+[10-Apr-2016 10:29:10 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/Browse/browse.php on line 59
+[10-Apr-2016 10:29:10 UTC] PHP Stack trace:
+[10-Apr-2016 10:29:10 UTC] PHP   1. {main}() /home/ubuntu/workspace/Browse/browse.php:0
+[10-Apr-2016 10:29:10 UTC] PHP   2. mysqli_fetch_assoc() /home/ubuntu/workspace/Browse/browse.php:59
+[10-Apr-2016 10:30:04 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/Browse/browse.php on line 59
+[10-Apr-2016 10:30:04 UTC] PHP Stack trace:
+[10-Apr-2016 10:30:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/Browse/browse.php:0
+[10-Apr-2016 10:30:04 UTC] PHP   2. mysqli_fetch_assoc() /home/ubuntu/workspace/Browse/browse.php:59
+[10-Apr-2016 10:31:55 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/Browse/browse.php on line 59
+[10-Apr-2016 10:31:55 UTC] PHP Stack trace:
+[10-Apr-2016 10:31:55 UTC] PHP   1. {main}() /home/ubuntu/workspace/Browse/browse.php:0
+[10-Apr-2016 10:31:55 UTC] PHP   2. mysqli_fetch_assoc() /home/ubuntu/workspace/Browse/browse.php:59
+[10-Apr-2016 10:32:02 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/Browse/browse.php on line 59
+[10-Apr-2016 10:32:02 UTC] PHP Stack trace:
+[10-Apr-2016 10:32:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/Browse/browse.php:0
+[10-Apr-2016 10:32:02 UTC] PHP   2. mysqli_fetch_assoc() /home/ubuntu/workspace/Browse/browse.php:59
+[10-Apr-2016 10:34:39 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/Browse/browse.php on line 59
+[10-Apr-2016 10:34:39 UTC] PHP Stack trace:
+[10-Apr-2016 10:34:39 UTC] PHP   1. {main}() /home/ubuntu/workspace/Browse/browse.php:0
+[10-Apr-2016 10:34:39 UTC] PHP   2. mysqli_fetch_assoc() /home/ubuntu/workspace/Browse/browse.php:59
+[10-Apr-2016 10:35:34 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/Browse/browse.php on line 59
+[10-Apr-2016 10:35:34 UTC] PHP Stack trace:
+[10-Apr-2016 10:35:34 UTC] PHP   1. {main}() /home/ubuntu/workspace/Browse/browse.php:0
+[10-Apr-2016 10:35:34 UTC] PHP   2. mysqli_fetch_assoc() /home/ubuntu/workspace/Browse/browse.php:59
+[10-Apr-2016 10:35:38 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/Browse/browse.php on line 59
+[10-Apr-2016 10:35:38 UTC] PHP Stack trace:
+[10-Apr-2016 10:35:38 UTC] PHP   1. {main}() /home/ubuntu/workspace/Browse/browse.php:0
+[10-Apr-2016 10:35:38 UTC] PHP   2. mysqli_fetch_assoc() /home/ubuntu/workspace/Browse/browse.php:59
+[10-Apr-2016 10:39:00 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/Browse/browse.php on line 59
+[10-Apr-2016 10:39:00 UTC] PHP Stack trace:
+[10-Apr-2016 10:39:00 UTC] PHP   1. {main}() /home/ubuntu/workspace/Browse/browse.php:0
+[10-Apr-2016 10:39:00 UTC] PHP   2. mysqli_fetch_assoc() /home/ubuntu/workspace/Browse/browse.php:59
+[10-Apr-2016 10:39:01 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/Browse/browse.php on line 59
+[10-Apr-2016 10:39:01 UTC] PHP Stack trace:
+[10-Apr-2016 10:39:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/Browse/browse.php:0
+[10-Apr-2016 10:39:01 UTC] PHP   2. mysqli_fetch_assoc() /home/ubuntu/workspace/Browse/browse.php:59
+[10-Apr-2016 10:39:32 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/Browse/browse.php on line 59
+[10-Apr-2016 10:39:32 UTC] PHP Stack trace:
+[10-Apr-2016 10:39:32 UTC] PHP   1. {main}() /home/ubuntu/workspace/Browse/browse.php:0
+[10-Apr-2016 10:39:32 UTC] PHP   2. mysqli_fetch_assoc() /home/ubuntu/workspace/Browse/browse.php:59
+[10-Apr-2016 10:39:39 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/Browse/browse.php on line 59
+[10-Apr-2016 10:39:39 UTC] PHP Stack trace:
+[10-Apr-2016 10:39:39 UTC] PHP   1. {main}() /home/ubuntu/workspace/Browse/browse.php:0
+[10-Apr-2016 10:39:39 UTC] PHP   2. mysqli_fetch_assoc() /home/ubuntu/workspace/Browse/browse.php:59
+[10-Apr-2016 10:39:42 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/Browse/browse.php on line 59
+[10-Apr-2016 10:39:42 UTC] PHP Stack trace:
+[10-Apr-2016 10:39:42 UTC] PHP   1. {main}() /home/ubuntu/workspace/Browse/browse.php:0
+[10-Apr-2016 10:39:42 UTC] PHP   2. mysqli_fetch_assoc() /home/ubuntu/workspace/Browse/browse.php:59
+[10-Apr-2016 10:44:25 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/ubuntu/workspace/Browse/browse.php on line 66
+[10-Apr-2016 10:47:16 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/ubuntu/workspace/Browse/browse.php on line 59
+[10-Apr-2016 10:54:59 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/Browse/browse.php on line 58
+[10-Apr-2016 10:54:59 UTC] PHP Stack trace:
+[10-Apr-2016 10:54:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/Browse/browse.php:0
+[10-Apr-2016 10:54:59 UTC] PHP   2. mysqli_fetch_assoc() /home/ubuntu/workspace/Browse/browse.php:58
+[10-Apr-2016 10:56:10 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/Browse/browse.php on line 58
+[10-Apr-2016 10:56:10 UTC] PHP Stack trace:
+[10-Apr-2016 10:56:10 UTC] PHP   1. {main}() /home/ubuntu/workspace/Browse/browse.php:0
+[10-Apr-2016 10:56:10 UTC] PHP   2. mysqli_fetch_assoc() /home/ubuntu/workspace/Browse/browse.php:58

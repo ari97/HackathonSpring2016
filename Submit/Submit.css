@@ -1,9 +1,10 @@
 .container{
   background-color: #d7d7f4;
   padding-right: 30px;
+  padding-top: 20px;
   border-radius: 5px;  
   width: 40%;
-  margin-top:2.5%;
+  margin-top:10%;
 }
 
 #header{
@@ -27,12 +28,15 @@
 
 #about{
   display:block;
-  margin-top:2.5%;
+  /*margin-top:2.5%;*/
   margin:0 auto;
   background-color:#5f5fd3;
   width:10%;
-  height:5%;
-  font-size:22px;
+  height:8%;
+  font-size:24px;
+  position: absolute;
+  left: 10px;
+  bottom: 30px;
 }
 
 #submit{
@@ -43,3 +47,9 @@
 label{
   font-size:16px;
 }
+
+.topcorner{
+   position:absolute;
+   top:0;
+   right:0;
+  }

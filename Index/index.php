@@ -13,15 +13,12 @@ if(isset($_POST["fname"])){
     query("INSERT INTO Users (FirstName, LastName, Email, Password) VALUES ('$fname', '$lname', '$email', '$password')");
   }
 }
-
-
 if(isset($_SESSION['id'])) {
   $userID = $_SESSION['id'];
   $dropdown = "dropdown-toggle";
 } else{
   $dropdown = "";
 }
-
 ?>
 
 <HTML><head><title>Home Page</title></head>
@@ -38,11 +35,9 @@ if(isset($_SESSION['id'])) {
           </p>
         </div>
         <div class = "container" >
-          <button type="button" class="btn btn-primary btn-lg $dropdown" id="browse">Browse</button>
-          <button type="button" class="btn btn-primary btn-lg" id="submit">Submit</button>
+          <a href="../Browse/browse.php?SubCategory=&quot;Accounting"><button type="button" class="btn btn-primary btn-lg $dropdown" id="browse">Browse</button></a>
+          <a href="../Submit/submit.php"><button type="button" class="btn btn-primary btn-lg" id="submit">Submit</button></a>
         </div>
-          <a href="About.php"><button type="button" class="btn btn-primary btn-lg $dropdown" id="about">About Us</button></a>
+          <a href="../About/About.php"><button type="button" class="btn btn-primary btn-lg $dropdown" id="about">About Us</button></a>
       </body>
       
-      
-

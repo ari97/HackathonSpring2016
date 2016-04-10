@@ -12,6 +12,11 @@
 		return "No Error";
 	}
 
+	function getUserName($userID){
+		$row = query("SELECT * FROM Users WHERE user ");
+	}
+
+
 	function createTable ($table, $cols) {
 		$sql = "CREATE TABLE $table (" . implode(", ", $cols) . ")";
 		
